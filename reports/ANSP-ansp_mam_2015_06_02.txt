@@ -1,0 +1,192 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 570
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Costa Rica ; Times: 21
+	Country: France ; Times: 3
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 61
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-08 ; Times: 5
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 31
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 17
+	Date: 2015-05-29 ; Times: 19
+	Date: 2015-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera uncia" ; Times: 7
+	Query: "hippotragus niger variani" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "ailurus (skull)" ; Times: 1
+	Query: ""hispidus" institutioncode:ANSP" ; Times: 1
+	Query: "Pteropus subniger" ; Times: 1
+	Query: "ANSP 21576" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 3
+	Query: ""Geomys" institutioncode:ANSP" ; Times: 4
+	Query: "r-87381" ; Times: 1
+	Query: "ichthyomys" ; Times: 2
+	Query: "Orthogeomys cavator" ; Times: 4
+	Query: "Mazama rufina" ; Times: 2
+	Query: "gulo gulo idaho" ; Times: 2
+	Query: "lagidium viscacia" ; Times: 1
+	Query: "pteronura brasiliensis" ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "marmota himalayana" ; Times: 2
+	Query: "sylvilagus dicei" ; Times: 21
+	Query: "Dusicyon australis" ; Times: 26
+	Query: "Alouatta seniculus brazil" ; Times: 1
+	Query: "jubata brazil" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "ANSP 15434" ; Times: 2
+	Query: "orycteropus" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "pan paniscus" ; Times: 2
+	Query: "genus:Pan paniscus" ; Times: 3
+	Query: "genus:chlamyphorus" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+	Query: "platacanthomys lasiurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 976 download events in this period)
+Total number of records downloaded: 3062 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1923
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 9
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 9
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 6
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 7
+	Date: 2015-05-22 ; Times: 8
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "Peromyscus keeni" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Erethizontidae" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Mazama rufina" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "Alouatta seniculus venezuela" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "Alouatta seniculus brazil" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 187
+Total number of records retrieved from searches: 1216
+Number of download events that retrieved data from the resource: 171
+Total number of records downloaded: 8566
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 227
+Total number of records retrieved from searches: 1395
+Number of download events that retrieved data from the resource: 196
+Total number of records downloaded: 9897
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
