@@ -1,0 +1,148 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 4367
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 8
+	Country: Chile ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 9
+	Date: 2015-06-02 ; Times: 6
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-09 ; Times: 11
+	Date: 2015-06-10 ; Times: 39
+	Date: 2015-06-11 ; Times: 7
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 8
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-24 ; Times: 4
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "hippotragus niger variani" ; Times: 1
+	Query: "zapus hudsonicus" ; Times: 1
+	Query: "Perognathus inornatus" ; Times: 1
+	Query: "viverra megaspila" ; Times: 2
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "blarina 4036" ; Times: 1
+	Query: "catalognumber:22277 institutioncode:ANSP" ; Times: 3
+	Query: "ansp mam" ; Times: 34
+	Query: "Monachus tropicalis" ; Times: 3
+	Query: "ANSP 5288" ; Times: 4
+	Query: "12243 (skull)" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 2
+	Query: "panthera onca mexico" ; Times: 1
+	Query: "Ateles chamek" ; Times: 7
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "Galemys pyrenaicus" ; Times: 2
+	Query: "cynomys ludovicianus arizonensis new mexico" ; Times: 1
+	Query: "genus:Caenolestes" ; Times: 1
+	Query: "ANSP 15434" ; Times: 2
+	Query: "Eupetaurus cinereus" ; Times: 1
+	Query: "catalognumber:22465 institutioncode:ANSP" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "catalognumber:21773 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP mam" ; Times: 9
+	Query: "Oreailurus jacobita" ; Times: 1
+	Query: "catalognumber:22464 institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:22267 institutioncode:ANSP" ; Times: 2
+	Query: "Lariscus niobe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1524 download events in this period)
+Total number of records downloaded: 675 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 654
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-19 ; Times: 3
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave alabama" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 2
+	Query: "Syria" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "neotamias speciosus" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "cynomys ludovicianus arizonensis new mexico" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Canis aureus" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "yemen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 282
+Total number of records retrieved from searches: 5583
+Number of download events that retrieved data from the resource: 199
+Total number of records downloaded: 9241
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 322
+Total number of records retrieved from searches: 5762
+Number of download events that retrieved data from the resource: 224
+Total number of records downloaded: 10572
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
