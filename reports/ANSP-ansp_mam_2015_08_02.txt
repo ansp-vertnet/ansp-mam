@@ -1,0 +1,196 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 515
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-04 ; Times: 3
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-12 ; Times: 4
+	Date: 2015-07-14 ; Times: 5
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-21 ; Times: 13
+	Date: 2015-07-22 ; Times: 5
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-27 ; Times: 4
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 3
+	Date: 2015-07-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "chrysochloridae type:specimen (skeleton)" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "genus:Bdeogale" ; Times: 2
+	Query: "Rheomys" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "Ichthyomys" ; Times: 1
+	Query: "skeleton "Equus quagga"" ; Times: 1
+	Query: "lasiurus seminolus institutioncode:ansp" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "lontra texas" ; Times: 2
+	Query: "ichthyomys" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "14470" ; Times: 1
+	Query: "rattus institutioncode:ANSP" ; Times: 3
+	Query: "notoryctes type:specimen (skeleton)" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "elephantidae (mass) OR weight" ; Times: 1
+	Query: "Rio Paca" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Felis cattus" ; Times: 2
+	Query: "Dusicyon australis" ; Times: 5
+	Query: "citellus leucurus" ; Times: 1
+	Query: "skeleton "Equus burchellii"" ; Times: 1
+	Query: "Lophiomys" ; Times: 1
+	Query: "lobodon carcinophaga" ; Times: 1
+	Query: "hylomys institutioncode:ANSP" ; Times: 3
+	Query: "lobodon" ; Times: 1
+	Query: "lontra canadensis texas" ; Times: 2
+	Query: "rattus blangorum" ; Times: 2
+	Query: "panthera onca centralis" ; Times: 1
+	Query: "skeleton "Equus zebra"" ; Times: 1
+	Query: "rattus sumatra institutioncode:ANSP" ; Times: 1
+	Query: "elephantidae (mass)" ; Times: 4
+	Query: "ansp 22564" ; Times: 2
+	Query: "Crateromys schadenbergi" ; Times: 1
+	Query: "Sundamys institutioncode:ANSP" ; Times: 4
+	Query: "Neacomys pictus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1084 download events in this period)
+Total number of records downloaded: 979 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 891
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 4
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 4
+	Date: 2015-07-28 ; Times: 2
+	Date: 2015-07-30 ; Times: 7
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "martes americana" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "rheomys" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "petrodromus" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "macroscelides" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 344
+Total number of records retrieved from searches: 6098
+Number of download events that retrieved data from the resource: 251
+Total number of records downloaded: 10220
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 384
+Total number of records retrieved from searches: 6277
+Number of download events that retrieved data from the resource: 276
+Total number of records downloaded: 11551
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
