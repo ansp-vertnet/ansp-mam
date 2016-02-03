@@ -1,0 +1,184 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 341
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-12 ; Times: 5
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-24 ; Times: 5
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:18086 institutioncode:ANSP" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "Mustela lutreola" ; Times: 2
+	Query: "puma concolor sinaloa" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "type:specimen genus:Eira institutioncode:ANSP" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "puma concolor chihuahua" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "Odocoileus virginianus and georgia" ; Times: 1
+	Query: "type:specimen genus:Leopardus institutioncode:ANSP" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "sarawak Hominidae" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 1
+	Query: "Odocoileus virginianus and Pennsylvania" ; Times: 1
+	Query: "Odocoileus virginianus and new jersey" ; Times: 1
+	Query: "sarawak Erinaceidae" ; Times: 1
+	Query: "ursus arctos californicus" ; Times: 1
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 823 download events in this period)
+Total number of records downloaded: 1370
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 4
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 28
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Czech Republic ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 4
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 10
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 12
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "puma concolor chihuahua" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Ovis canadensis Baja California" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "philander opossum" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
