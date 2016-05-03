@@ -1,0 +1,143 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 629
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 7
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-26 ; Times: 9
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-27 ; Times: 5
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "Myocaster" ; Times: 1
+	Query: "sphiggurus" ; Times: 3
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "ANSP 7179" ; Times: 1
+	Query: "promops centralis" ; Times: 1
+	Query: "ANSP 17551" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "nectogale" ; Times: 1
+	Query: "Monachus tropicalis" ; Times: 1
+	Query: "suncus hosei malaysia" ; Times: 1
+	Query: "ateles geofroyi" ; Times: 1
+	Query: "desmana" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "sphiggurus melanurus" ; Times: 3
+	Query: "ANSP 8312" ; Times: 1
+	Query: "type:specimen AND (NOT fish NOT Orn NOT HRP) institutioncode:ANSP" ; Times: 3
+	Query: "rattus blangorum" ; Times: 2
+	Query: "galemys" ; Times: 3
+	Query: "euroscaptor" ; Times: 3
+	Query: "chato" ; Times: 1
+	Query: "lophiomys" ; Times: 1
+	Query: "ansp tamiasciurus" ; Times: 1
+	Query: "microtus pennsylvanicus rhode island" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 1
+	Query: "gerbillus pulvinatus" ; Times: 2
+	Query: "ANSP 3568" ; Times: 1
+	Query: "Loxodonta type:specimen institutioncode:ANSP" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1312 download events in this period)
+Total number of records downloaded: 2110
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-12 ; Times: 6
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "Sciurus niger" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+
+
+End of report.
