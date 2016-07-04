@@ -1,0 +1,194 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 498
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 10
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-01 ; Times: 14
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 13
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ANSP 12788" ; Times: 2
+	Query: "Ichthyomys" ; Times: 1
+	Query: "bubalus depressicornis" ; Times: 2
+	Query: "oncifelis" ; Times: 4
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "19826 type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "Callithrix aurita" ; Times: 1
+	Query: "Marmota himalayana" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "ANSP 459" ; Times: 1
+	Query: "Lupinus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "symphalangus syndactylus" ; Times: 5
+	Query: "oryzomys couesi guatemala" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Platanista gangetica" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+	Query: "ANSP 19198" ; Times: 1
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "institutioncode:ANSP catalognumber:1727" ; Times: 1
+	Query: "Oligoryzomys vegetus" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "ateles chamek" ; Times: 1
+	Query: "ANSP 8548" ; Times: 3
+	Query: "anoa depressicornis" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "ateles marginatus" ; Times: 5
+	Query: "19926 type:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Sturnira institutioncode:ANSP" ; Times: 1
+	Query: "ANSP Xanthogenys" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 105 (out of 1052 download events in this period)
+Total number of records downloaded: 3001
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 63
+	Country: Unknown ; Times: 8
+	Country: United States ; Times: 30
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 11
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-08 ; Times: 9
+	Date: 2016-06-18 ; Times: 6
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 10
+	Date: 2016-06-14 ; Times: 13
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 23
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Equus grevyi" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "microtus montebelli" ; Times: 2
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
