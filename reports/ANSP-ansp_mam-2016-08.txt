@@ -1,0 +1,164 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 390
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 30
+	Country: France ; Times: 3
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 4
+	Date: 2016-08-29 ; Times: 8
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-30 ; Times: 21
+	Date: 2016-08-31 ; Times: 15
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "halichoerus grypus massachusetts" ; Times: 1
+	Query: "Choeropsis" ; Times: 1
+	Query: "catalognumber:1 collectioncode:Mam institutioncode:ANSP" ; Times: 1
+	Query: "notocitellus annulatus" ; Times: 2
+	Query: "otocolobus manul" ; Times: 1
+	Query: "felis chaus" ; Times: 1
+	Query: "ANSP 14704" ; Times: 1
+	Query: "trichechus manatus institutioncode:ANSP" ; Times: 1
+	Query: "eulemur mongoz" ; Times: 2
+	Query: "serronea" ; Times: 1
+	Query: "ANSP-14850" ; Times: 1
+	Query: "felis manul" ; Times: 1
+	Query: "ANSP-14871" ; Times: 1
+	Query: "peromysus" ; Times: 2
+	Query: "catalognumber:1 institutioncode:ANSP" ; Times: 1
+	Query: "dipodomys colton" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "phataginus" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "Hyemoschus aquaticus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 17
+	Query: "prionailurus planiceps" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 1
+	Query: "neofelis nebulosa" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Audubon institutioncode:ANSP" ; Times: 7
+	Query: "ANSP-18483" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 4
+	Query: "ANSP-14866" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 1
+	Query: "Moschiola" ; Times: 1
+	Query: "ANSP-14865" ; Times: 1
+	Query: "herpestes brachyurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 924 download events in this period)
+Total number of records downloaded: 1975
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 4
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 11
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-26 ; Times: 11
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-25 ; Times: 13
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "catalognumber:1 collectioncode:Mam institutioncode:ANSP" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "cercocebus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "ovis new mexico type:specimen" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "korrido" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "notocitellus" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "skull type:specimen genus:erythrocebus" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "vulpes new mexico" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "Theropithecus skull type:specimen" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 1
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "ovis arizona type:specimen" ; Times: 7
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "cercocebus skull type:specimen" ; Times: 1
+	Query: "skull type:specimen genus:chlorocebus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 4
+	Query: "lutra" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+
+
+End of report.
