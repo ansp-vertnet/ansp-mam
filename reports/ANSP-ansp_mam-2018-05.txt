@@ -1,0 +1,140 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 519
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 12
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-17 ; Times: 5
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 7
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 2
+	Query: "Pentalagus" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "(morris) institutioncode:ANSP" ; Times: 1
+	Query: "Tamias minimus caniceps 20497" ; Times: 1
+	Query: "Erinaceus russia" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "ANSP 2552" ; Times: 1
+	Query: "Tapirella bairdii" ; Times: 2
+	Query: "bos gaurus" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "nanger dama" ; Times: 2
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "peromycus" ; Times: 1
+	Query: "Marmosops caucae" ; Times: 1
+	Query: "vntype:specimen (gazella subgutturosa skeleton skull)" ; Times: 1
+	Query: "equus quagga" ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 1
+	Query: "tibet ansp" ; Times: 2
+	Query: "Aotus brumbacki" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "ANSP-2552" ; Times: 1
+	Query: "marmosops caucae" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 4
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 2
+	Query: "muntjac" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Peromycus leucopus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1178 download events in this period)
+Total number of records downloaded: 410
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "palliata" ; Times: 2
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Macropus robustus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "marmosops caucae" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+
+
+End of report.
