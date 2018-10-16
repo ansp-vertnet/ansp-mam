@@ -1,0 +1,170 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 1085
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 58
+	Country: France ; Times: 1
+	Country: United States ; Times: 53
+	Country: Germany ; Times: 15
+	Country: Colombia ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-28 ; Times: 8
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-10 ; Times: 17
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-18 ; Times: 5
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 59
+	Date: 2018-03-26 ; Times: 14
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nyctereutes" ; Times: 3
+	Query: "family:Heteromyidae catalognumber:16069" ; Times: 1
+	Query: "iptrecordid:&#34;ANSP MAM 13086&#34;" ; Times: 4
+	Query: "gymnocercus" ; Times: 1
+	Query: "genus:Primate" ; Times: 4
+	Query: "genus:Pteromys" ; Times: 3
+	Query: "Barbastella vntype:specimen" ; Times: 1
+	Query: "ANSP-2919" ; Times: 2
+	Query: "Glauconycteris variegata" ; Times: 1
+	Query: "iptrecordid:&#34;ANSP MAM 13432&#34;" ; Times: 4
+	Query: "catalognumber:13908 hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;ANSP MAM 12751&#34;" ; Times: 4
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "ANSP-2912" ; Times: 2
+	Query: "institutioncode:ANSP hastissue:1" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "tamias minimus atristriatus" ; Times: 2
+	Query: "iptrecordid:&#34;ANSP MAM 20713&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ANSP MAM 13439&#34;" ; Times: 4
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "porcus institutioncode:ANSP" ; Times: 1
+	Query: "iptrecordid:&#34;ANSP MAM 13429&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ANSP MAM 13548&#34;" ; Times: 4
+	Query: "genus:Chiroptera" ; Times: 3
+	Query: "iptrecordid:&#34;ANSP MAM 12027&#34;" ; Times: 4
+	Query: "genus:Tapirus (Acrocodia)" ; Times: 4
+	Query: "ANSP-2924" ; Times: 1
+	Query: "catalognumber:24 institutioncode:ANSP" ; Times: 1
+	Query: "iptrecordid:&#34;ANSP MAM 13085&#34;" ; Times: 4
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Crateromys" ; Times: 1
+	Query: "ansp 3057" ; Times: 1
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Rodentia" ; Times: 4
+	Query: "collectioncode:MAM institutioncode:ANSP" ; Times: 2
+	Query: "Rhinopithecus roxellana" ; Times: 1
+	Query: "felis domesticus" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 3
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "Ursus arctos californicus" ; Times: 2
+	Query: "pekania pennanti" ; Times: 1
+	Query: "ANSP-2921" ; Times: 2
+	Query: "iptrecordid:&#34;ANSP MAM 13430&#34;" ; Times: 4
+	Query: "21570" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "Aotus brumbacki" ; Times: 14
+	Query: "catalognumber:5940 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP-2920" ; Times: 2
+	Query: "ANSP-2923" ; Times: 2
+	Query: "iptrecordid:&#34;ANSP MAM 13175&#34;" ; Times: 4
+	Query: "ANSP-2922" ; Times: 2
+	Query: "Ateles hybridus" ; Times: 2
+	Query: "CALIFORINA" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 3
+	Query: "iptrecordid:&#34;ANSP MAM 12026&#34;" ; Times: 4
+	Query: "ANSP-2913" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1284 download events in this period)
+Total number of records downloaded: 304
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 4
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "Barbastella vntype:specimen" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "gazella subgutturosa" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Myotis emarginatus" ; Times: 1
+	Query: "Aotus griseimembra" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "Aotus brumbacki" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Saltator institutioncode:ANSP" ; Times: 2
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
