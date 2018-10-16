@@ -1,0 +1,149 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1463
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 9
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-13 ; Times: 10
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-17 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Pentalagus" ; Times: 1
+	Query: "Cephalophus natalensis" ; Times: 1
+	Query: "ANSP 11733" ; Times: 1
+	Query: "Pentalagus vntype:specimen" ; Times: 1
+	Query: "genus:Tragulus hastissue:1" ; Times: 2
+	Query: "Desmana" ; Times: 2
+	Query: "Dicerorhinus sumatrensis" ; Times: 1
+	Query: "family:Tragulidae hastissue:1" ; Times: 2
+	Query: "Sylvilagus vntype:specimen (Bolivia)" ; Times: 1
+	Query: "Marmota himalayana" ; Times: 2
+	Query: "ANSP 15591" ; Times: 2
+	Query: "bison institutioncode:ANSP" ; Times: 10
+	Query: "Desmana moschata" ; Times: 3
+	Query: "catalognumber:2445 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 15535" ; Times: 2
+	Query: "Poelagus" ; Times: 2
+	Query: "genus:Ursus institutioncode:ANSP" ; Times: 9
+	Query: "Marmosops caucae" ; Times: 1
+	Query: "ANSP 15538" ; Times: 1
+	Query: "pentalagus" ; Times: 3
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "family:Bovidae institutioncode:ANSP hastissue:1" ; Times: 1
+	Query: "ANSP 1342" ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 3
+	Query: "Pentalagus furnessi" ; Times: 1
+	Query: "ANSP 15593" ; Times: 2
+	Query: "Silvilagus" ; Times: 1
+	Query: "Caprolagus" ; Times: 1
+	Query: "ANSP 14676" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "ANSP 8133" ; Times: 1
+	Query: "ANSP 14655" ; Times: 2
+	Query: "ANSP 15540" ; Times: 2
+	Query: "ANSP 15545" ; Times: 2
+	Query: "odocoileus hemionus eremicus" ; Times: 1
+	Query: "ANSP 15542" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1359 download events in this period)
+Total number of records downloaded: 655
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 13
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 3
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysocyon" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Dicerorhinus sumatrensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 3
+	Query: "cuniculus paca" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "Artibeus intermedius" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "(colobus guereza)" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Notocitellus" ; Times: 1
+
+
+End of report.
