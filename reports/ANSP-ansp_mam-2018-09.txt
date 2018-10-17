@@ -1,0 +1,134 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 358
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 40
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-30 ; Times: 16
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 8
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rhinoceros preparations:Skeleton institutioncode:ANSP" ; Times: 1
+	Query: "Dremomys rufigenis" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "genus:Primate" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "family:Daubentoniidae hastissue:1" ; Times: 1
+	Query: "genus:Tapirus (Acrocodia)" ; Times: 1
+	Query: "genus:Microcebus hastissue:1" ; Times: 1
+	Query: "catalognumber:2098 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "Pekania pennanti" ; Times: 4
+	Query: "Equus hemionus onager" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "lupinus" ; Times: 4
+	Query: "desmana moschata" ; Times: 1
+	Query: "genus:Rodentia" ; Times: 1
+	Query: "genus:Rhinoceros institutioncode:ANSP" ; Times: 15
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 2
+	Query: "galemys" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "pekania pennanti" ; Times: 2
+	Query: "Cutucu vntype:specimen institutioncode:ANSP" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 1
+	Query: "ansp 17964" ; Times: 1
+	Query: "Pekania pennanti michigan" ; Times: 1
+	Query: "kogia simus" ; Times: 1
+	Query: "Didelphis cancrivora" ; Times: 1
+	Query: "genus:Eulemur hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 846 download events in this period)
+Total number of records downloaded: 304
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 7
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "Sphaeronycteris toxophyllum" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "Pekania pennanti" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Didelphis californica" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "kogia simus" ; Times: 1
+	Query: "Didelphis cancrivora" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
