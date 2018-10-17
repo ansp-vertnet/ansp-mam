@@ -1,0 +1,167 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 954
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 48
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 30
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 32
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-16 ; Times: 3
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 10
+	Date: 2018-07-27 ; Times: 22
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 4
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-25 ; Times: 13
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sciurus catalognumber:10855 institutioncode:ANSP" ; Times: 1
+	Query: "ansp 17195" ; Times: 1
+	Query: "genus:sciurus catalognumber:1339 institutioncode:ANSP" ; Times: 1
+	Query: "6188 ansp" ; Times: 1
+	Query: "genus:sciurus catalognumber:19224 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:3645 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:16528 institutioncode:ANSP" ; Times: 1
+	Query: "ansp 19297" ; Times: 1
+	Query: "genus:sciurus catalognumber:21648 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:19296 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:20546 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "genus:Dugong preparations:Skull" ; Times: 2
+	Query: "genus:sciurus catalognumber:21103 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:3801 institutioncode:ANSP" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:sciurus catalognumber:17196 institutioncode:ANSP" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "genus:priodontes preparations:skeleton" ; Times: 4
+	Query: "ansp 19295" ; Times: 1
+	Query: "ANSP 4865" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:Ailuropoda preparations:skull" ; Times: 5
+	Query: "elator" ; Times: 1
+	Query: "genus:anomalurus" ; Times: 1
+	Query: "genus:sciurus catalognumber:16526 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:10604 institutioncode:ANSP" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "ANSP 3285" ; Times: 1
+	Query: "ansp 20120" ; Times: 1
+	Query: "institutioncode:ansp cynocephalus" ; Times: 5
+	Query: "Cuniculus paca brazil" ; Times: 1
+	Query: "ansp 16527" ; Times: 1
+	Query: "ANSP-3285" ; Times: 1
+	Query: "ansp 16525" ; Times: 1
+	Query: "genus:sciurus catalognumber:20089 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 7565" ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "genus:sciurus catalognumber:20548 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:15261 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:15407 institutioncode:ANSP" ; Times: 1
+	Query: "herpailurus yaguaroundi" ; Times: 1
+	Query: "ansp 6188" ; Times: 2
+	Query: "Panthera uncia" ; Times: 4
+	Query: "dusicyon australis" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 13
+	Query: "Canis latrans institutioncode:ANSP" ; Times: 2
+	Query: "ansp 17965" ; Times: 1
+	Query: "ansp 17964" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "genus:sciurus catalognumber:21104 institutioncode:ANSP" ; Times: 1
+	Query: "Ailuropoda" ; Times: 3
+	Query: "ansp 7974" ; Times: 1
+	Query: "institutioncode:ansp Cynocephalus" ; Times: 16
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "genus:sciurus catalognumber:7973 institutioncode:ANSP" ; Times: 1
+	Query: "Panthera pardus delacouri" ; Times: 1
+	Query: "genus:sciurus catalognumber:7972 institutioncode:ANSP" ; Times: 1
+	Query: "genus:sciurus catalognumber:20547 institutioncode:ANSP" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 977 download events in this period)
+Total number of records downloaded: 265
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-24 ; Times: 5
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "dusicyon australis" ; Times: 1
+	Query: "Saltator institutioncode:ANSP" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Canis latrans institutioncode:ANSP" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Ailuropoda" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.
