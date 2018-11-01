@@ -1,0 +1,183 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 244
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 10
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-19 ; Times: 5
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Echinosorex" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "pekania pennanti" ; Times: 2
+	Query: "ovis ammon hodgsoni" ; Times: 1
+	Query: "felis chaus" ; Times: 1
+	Query: "addax nasomaculatus" ; Times: 1
+	Query: "caprolagus" ; Times: 1
+	Query: "Moschus" ; Times: 1
+	Query: "Canis lupus chanco" ; Times: 1
+	Query: "ansp 2875" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 2
+	Query: "genus:Theropithecus" ; Times: 2
+	Query: "catalognumber:15188 institutioncode:ANSP" ; Times: 2
+	Query: "capybara" ; Times: 1
+	Query: "Pekania pennanti" ; Times: 2
+	Query: "genus:Leopardus preparations:alcohol" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "gRAOMYS CHACOENSIS" ; Times: 1
+	Query: "catalognumber:620 institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:3818 institutioncode:ANSP" ; Times: 1
+	Query: "pseudalopex culpaeus" ; Times: 1
+	Query: "catalognumber:3305 institutioncode:ANSP" ; Times: 2
+	Query: "catalognumber:15189 institutioncode:ANSP" ; Times: 1
+	Query: "prionailurus viverrinus" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "catalognumber:13818 institutioncode:ANSP" ; Times: 1
+	Query: "catalognumber:15187 institutioncode:ANSP" ; Times: 1
+	Query: "vntype:specimen genus:panthera hastissue:1" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "ANSP-619" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "peromyscus keeni island british columbia AND (NOT alaska NOT queen NOT waddington)" ; Times: 1
+	Query: "Catalina Myotis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1300 download events in this period)
+Total number of records downloaded: 2100
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 25
+	Country: El Salvador ; Times: 1
+	Country: India ; Times: 9
+	Country: United States ; Times: 32
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-23 ; Times: 5
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-25 ; Times: 6
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-13 ; Times: 9
+	Date: 2018-10-19 ; Times: 5
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-10 ; Times: 7
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera uncia" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "felis chaus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "onychomys torridus AND new mexico" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "peromyscus keeni island AND (NOT alaska NOT queen)" ; Times: 1
+	Query: "onychomys torridus AND arizona" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "caracal" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Myotis sodalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "pseudalopex culpaeus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "prionailurus bengalensis" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Corynorhinus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "neofiber alleni" ; Times: 1
+	Query: "Petaurus australis" ; Times: 1
+	Query: "Sorex fontinalis" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 2
+	Query: "Myotis leibii genus:Myotis" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
