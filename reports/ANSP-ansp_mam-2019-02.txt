@@ -1,0 +1,188 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 536
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 9
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-10 ; Times: 4
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-13 ; Times: 12
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 5
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 8
+	Date: 2019-02-18 ; Times: 10
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 5
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Felis manul" ; Times: 1
+	Query: "phyllorhina" ; Times: 1
+	Query: "vntype:specimen catalognumber:1 institutioncode:ANSP" ; Times: 1
+	Query: "Sylvilagus transitionalis west virginia" ; Times: 1
+	Query: "institutioncode:ANSP hastissue:1" ; Times: 1
+	Query: "ANSP 20341" ; Times: 2
+	Query: "family:daubentoniidae" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 2
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "fallax pallidus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 6
+	Query: "Microcebus myoxinus" ; Times: 1
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "ANSP-11082" ; Times: 2
+	Query: "didelphys virginiana" ; Times: 3
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "vntype:specimen genus:Lophiomys" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Sylvilagus West Virginia institutioncode:ANSP" ; Times: 1
+	Query: "canis anthus" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "Atelerix frontalis" ; Times: 1
+	Query: "Vulpes ferrilata" ; Times: 1
+	Query: "erethizon &#34;pennsylvania&#34; hastissue:1" ; Times: 1
+	Query: "Lophiomys" ; Times: 1
+	Query: "collectioncode:MAM institutioncode:ANSP" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "ANSP 20150" ; Times: 1
+	Query: "Kerodon" ; Times: 2
+	Query: "ANSP-11047" ; Times: 1
+	Query: "ANSP-11046" ; Times: 1
+	Query: "ANSP-11045" ; Times: 2
+	Query: "ANSP-11044" ; Times: 1
+	Query: "sylvilagus transitionalis virginia" ; Times: 1
+	Query: "ANSP-11048" ; Times: 2
+	Query: "Sylvilagus TRANSITIONALIS west virginia" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "Rhinopithecus" ; Times: 1
+	Query: "Audubon institutioncode:ANSP" ; Times: 2
+	Query: "hystrix pennsylvania" ; Times: 2
+	Query: "erithizon dorsatum" ; Times: 3
+	Query: "Rhinopithecus roxellana" ; Times: 1
+	Query: "&#34;california bear&#34;" ; Times: 1
+	Query: "Platacanthomys" ; Times: 1
+	Query: "cynomys ludovicians" ; Times: 1
+	Query: "Moschus" ; Times: 1
+	Query: "erithizon" ; Times: 1
+	Query: "Vulpes bengalensis" ; Times: 1
+	Query: "genus:Peromyscus institutioncode:ANSP" ; Times: 1
+	Query: "Monodelphis kunsi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1227 download events in this period)
+Total number of records downloaded: 979
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-13 ; Times: 9
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 11
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-14 ; Times: 15
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "canis lupus Mexico" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "Felis manul" ; Times: 1
+	Query: "canis anthus" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ALOUATTA PALLIATA" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "didelphys virginiana" ; Times: 2
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "Dasypus" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "Vulpes ferrilata" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "micoureus" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "family:daubentoniidae" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "&#34;Apodemus latronum&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "canis adustus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Vulpes bengalensis" ; Times: 1
+
+
+End of report.
