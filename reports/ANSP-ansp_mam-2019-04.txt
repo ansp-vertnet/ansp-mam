@@ -1,0 +1,178 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 446
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Herpailurus yagouaroundi" ; Times: 2
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Odocoileus brazil" ; Times: 3
+	Query: "genus:Mydaus" ; Times: 1
+	Query: "genus:Spilogale institutioncode:ANSP" ; Times: 1
+	Query: "genus:Conepatus institutioncode:ANSP" ; Times: 1
+	Query: "yaguaroundi" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "Sylvilagus dicei" ; Times: 1
+	Query: "choeropsis" ; Times: 1
+	Query: "Dicotyles angulatus" ; Times: 1
+	Query: "pipistrellus macrotis" ; Times: 1
+	Query: "sciurus &#34;vancouver island&#34;" ; Times: 1
+	Query: "Tapirella bairdii" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Procavia capensis israel" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "phyllotis caprinus" ; Times: 3
+	Query: "ANSP 1179" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "Dicotyles" ; Times: 1
+	Query: "ORYX LEUCORYX" ; Times: 1
+	Query: "genus:Mephitis institutioncode:ANSP" ; Times: 1
+	Query: "genus:Miniopterus hastissue:1" ; Times: 3
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 2
+	Query: "hypsugo macrotis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1263 download events in this period)
+Total number of records downloaded: 1022
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 28
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "lycaon pictus" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Phyllotis darwini" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Aotus griseimembra" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Sphaeronycteris toxophyllum" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "NYCTINOMOPS macrotis" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "phyllotis caprinus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Apodemus chevrieri" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Mydaus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
