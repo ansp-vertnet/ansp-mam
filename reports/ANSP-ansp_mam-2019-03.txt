@@ -1,0 +1,150 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 306
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 23
+	Country: United Kingdom ; Times: 24
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 18
+	Date: 2019-03-22 ; Times: 5
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 4
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-15 ; Times: 20
+	Date: 2019-03-12 ; Times: 4
+	Date: 2019-03-13 ; Times: 9
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:16744 institutioncode:ANSP" ; Times: 2
+	Query: "jacobita" ; Times: 5
+	Query: "Herpailurus yagouaroundi" ; Times: 17
+	Query: "Tadaria brasilensis" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 5
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "Nomascus nasutus" ; Times: 1
+	Query: "Pteropus howensis" ; Times: 2
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "oryx leucoryx" ; Times: 3
+	Query: "catalognumber:18976 institutioncode:ANSP" ; Times: 1
+	Query: "Pteropus lombocensis" ; Times: 5
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Eonycteris major" ; Times: 5
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "ANSP-22458" ; Times: 1
+	Query: "aotus brumbacki" ; Times: 2
+	Query: "pekania pennanti" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "ANSP 1179" ; Times: 1
+	Query: "neotamias minimus atristriatus" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 6
+	Query: "Panthera uncia" ; Times: 2
+	Query: "genus:Dasypus hastissue:1" ; Times: 1
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "brasilensis" ; Times: 1
+	Query: "Rattus hawaiensis" ; Times: 5
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1281 download events in this period)
+Total number of records downloaded: 500
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 18
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 11
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-13 ; Times: 7
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 4
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "Tamiops maritimus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Pteropus howensis" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "dipus" ; Times: 1
+	Query: "promops" ; Times: 1
+	Query: "Aotus griseimembra" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "Cynopterus titthaecheilus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "Eonycteris major" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Notopteris macdonaldi" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Hypsignathus" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "neotamias minimus" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
