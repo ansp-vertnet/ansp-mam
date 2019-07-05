@@ -1,0 +1,162 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 1602
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Australia ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 3
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-30 ; Times: 11
+	Date: 2019-06-07 ; Times: 11
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 11
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-12 ; Times: 5
+	Date: 2019-06-24 ; Times: 7
+	Date: 2019-06-17 ; Times: 15
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "genus:Vampyrum family:Phyllostomidae institutioncode:ANSP" ; Times: 1
+	Query: "vulpes bengalensis" ; Times: 7
+	Query: "Bos gaurus" ; Times: 2
+	Query: "genus:Tapirus (Acrocodia)" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "genus:Tamiasciurus institutioncode:ANSP" ; Times: 14
+	Query: "Pantholops" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "vntype:specimen (Hyemoschus aquaticus)" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "genus:Chiroptera" ; Times: 1
+	Query: "&#34;South Pass&#34; vntype:specimen genus:Tamiasciurus institutioncode:ANSP" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "(ursus thibetanus)" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "genus:Rodentia" ; Times: 1
+	Query: "genus:Primate" ; Times: 1
+	Query: "corynorhinus townsendi" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 10
+	Query: "Oncifelis geoffroyi" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "dendrolagus ursinus" ; Times: 11
+	Query: "Oncifelis colocolo" ; Times: 2
+	Query: "Sus institutioncode:ANSP" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:nectogale" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1182 download events in this period)
+Total number of records downloaded: 1532
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 39
+	Country: Peru ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 12
+	Date: 2019-06-04 ; Times: 12
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-11 ; Times: 3
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-10 ; Times: 2
+	Date: 2019-06-28 ; Times: 2
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Vampyrum family:Phyllostomidae" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "Odocoileus hemionus columbianus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "genus:Tamiasciurus institutioncode:ANSP" ; Times: 2
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "genus:melursus" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "A. alces" ; Times: 1
+	Query: "Chroeomys jelskii" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Pantholops" ; Times: 1
+	Query: "Castor fiber" ; Times: 2
+	Query: "Auliscomys boliviensis" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "epomophorus crypturus" ; Times: 1
+
+
+End of report.
