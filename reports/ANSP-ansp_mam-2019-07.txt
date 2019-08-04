@@ -1,0 +1,149 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 815
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 22
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 13
+	Date: 2019-07-08 ; Times: 10
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 5
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "Thylacinus vntype:specimen" ; Times: 1
+	Query: "genus:Primate" ; Times: 2
+	Query: "orthogeomys grandis guatemala" ; Times: 4
+	Query: "río Mizque" ; Times: 1
+	Query: "vntype:specimen genus:Orcinus hastissue:1" ; Times: 1
+	Query: "ANSP 7098" ; Times: 1
+	Query: "ansp mam" ; Times: 2
+	Query: "19223 institutioncode:ANSP" ; Times: 1
+	Query: "ansp 21611" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "genus:Chiroptera" ; Times: 1
+	Query: "21136 ANSP" ; Times: 2
+	Query: "Thomasomys rhoadsi" ; Times: 3
+	Query: "ansp 21661" ; Times: 1
+	Query: "genus:Rodentia" ; Times: 2
+	Query: "Marmosa lepida" ; Times: 3
+	Query: "genus:Tapirus (Acrocodia)" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "&#34;19223&#34; institutioncode:ANSP" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "ansp nycteris" ; Times: 2
+	Query: "coypu" ; Times: 1
+	Query: "22345 ansp" ; Times: 1
+	Query: "Grison" ; Times: 1
+	Query: "genus:Urocyon institutioncode:ANSP" ; Times: 1
+	Query: "ansp chiroptera" ; Times: 5
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Cavia aperea" ; Times: 2
+	Query: "Chroeomys pulcherrimus" ; Times: 1
+	Query: "Daubentonia" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "erithizon" ; Times: 1
+	Query: "Vulpes bengalensis" ; Times: 1
+	Query: "21136 ansp" ; Times: 1
+	Query: "ansp bat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 985 download events in this period)
+Total number of records downloaded: 19840
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-05 ; Times: 6
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-20 ; Times: 4
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "dingo genus:Canis AND (NOT ANWC)" ; Times: 1
+	Query: "Chinchillula sahamae" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Caluromys philander" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "ansp mam" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "Nasua nasua brazil" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Thomasomys rhoadsi" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 5
+	Query: "Lagenorhynchus obscurus" ; Times: 3
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "Auliscomys pictus" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Chroeomys pulcherrimus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
