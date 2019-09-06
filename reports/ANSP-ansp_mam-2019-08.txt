@@ -1,0 +1,240 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 1248
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 51
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 47
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-07 ; Times: 8
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-23 ; Times: 2
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-15 ; Times: 12
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 47
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 11
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-20 ; Times: 8
+	Date: 2019-08-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Cynomys parvidens" ; Times: 4
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "genus:Tapirus (Acrocodia)" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "odocoileus virginianus (ecuador)" ; Times: 3
+	Query: "Tapirella bairdii" ; Times: 1
+	Query: "Saimiri boliviensis" ; Times: 1
+	Query: "ANSP 18217" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "genus:Rodentia" ; Times: 1
+	Query: "geomys bursarius wisconsin" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 2
+	Query: "2315 mam" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "ANSP 19154" ; Times: 2
+	Query: "Plagiodontia aedium" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Microsciurus alfari" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "alouatta hastissue:1" ; Times: 1
+	Query: "Tarsius bancanus" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "catalognumber:2240 institutioncode:ANSP" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Thryonomys swinderianus" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 1
+	Query: "vntype:specimen (fuliginosus) institutioncode:ANSP hassex:1" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Cebuella pygmaea" ; Times: 1
+	Query: "Cebus olivaceus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Syntheosciurus brochus" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "vntype:specimen institutioncode:ANSP hassex:1 hastissue:1" ; Times: 1
+	Query: "Aconaemys fuscus" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "genus:Primate" ; Times: 1
+	Query: "ANSP 4467" ; Times: 1
+	Query: "ANSP 21663" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "solenodon vntype:specimen hastissue:1" ; Times: 1
+	Query: "Mazama rufina" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 5
+	Query: "21879" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "eozapus" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "ANSP 19154*" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1034 download events in this period)
+Total number of records downloaded: 1118
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 22
+	Country: United States ; Times: 50
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-19 ; Times: 8
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-23 ; Times: 4
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 8
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 7
+	Date: 2019-08-29 ; Times: 8
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-20 ; Times: 10
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "lonchorhina aurita" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "bassaricyon" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "odocoileus virginianus (ecuador)" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "chiroderma salvini" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "loxodonta africana" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "Daubentonia" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
