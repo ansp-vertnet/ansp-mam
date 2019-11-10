@@ -1,0 +1,143 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 2792
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 54
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 7
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-29 ; Times: 20
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-06 ; Times: 9
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 3
+	Query: "Microtus pennsylvanicus 1998" ; Times: 1
+	Query: "sorex fontinalis" ; Times: 2
+	Query: "Thryonomys swinderianus" ; Times: 1
+	Query: "aloutta palliata" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "ANSP 4467" ; Times: 1
+	Query: "Callithrix cebuella" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "arandas" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 2
+	Query: "Peromyscus maniculatus 2000" ; Times: 1
+	Query: "Peromyscus maniculatus 1995" ; Times: 1
+	Query: "Panthera pardus india" ; Times: 2
+	Query: "ursus americana" ; Times: 2
+	Query: "felis tigrina" ; Times: 4
+	Query: "nivalis mustela" ; Times: 1
+	Query: "Microtus pennsylvanicus 2004" ; Times: 1
+	Query: "Microtus pennsylvanicus 2000" ; Times: 1
+	Query: "Microtus pennsylvanicus 2003" ; Times: 1
+	Query: "Microtus pennsylvanicus 1997" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 20
+	Query: "canis rufus" ; Times: 2
+	Query: "genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1073 download events in this period)
+Total number of records downloaded: 430
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 12
+	Country: India ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 7
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "aloutta palliata" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Panthera pardus india" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "&#34;Neotoma micropus&#34; hastissue:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+
+
+End of report.
