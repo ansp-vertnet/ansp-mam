@@ -1,0 +1,206 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 1881
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 68
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 129
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Benin ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-08 ; Times: 12
+	Date: 2019-11-09 ; Times: 14
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-07 ; Times: 20
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 11
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-03 ; Times: 37
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-15 ; Times: 60
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-12 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Presbytis thomasi" ; Times: 1
+	Query: "Dasyprocta fuliginosa" ; Times: 3
+	Query: "Taurotragus oryx zimbabwe" ; Times: 1
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "Microsciurus mimulus" ; Times: 2
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Orthogeomys cavator" ; Times: 1
+	Query: "Lynx rufus chihuahua" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Galea spixii" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 2
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "Reithrodontomys tenuirostris" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Sciurus richmondi" ; Times: 1
+	Query: "Auliscomys pictus" ; Times: 2
+	Query: "Reithrodontomys creper" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "Isthmomys pirrensis" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Rheomys" ; Times: 1
+	Query: "Eubalaena glacialis baleen" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Dicerorhinus sumatrensis" ; Times: 2
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "dasyprocta variegata" ; Times: 3
+	Query: "Microsciurus alfari" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Lynx canadensis 2014" ; Times: 4
+	Query: "Heteromys australis" ; Times: 3
+	Query: "alouatta hastissue:1" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "20532" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "Oligoryzomys vegetus" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "18905" ; Times: 2
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Cynomys parvidens 2016" ; Times: 6
+	Query: "Cynomys parvidens 2014" ; Times: 6
+	Query: "Chinchillula sahamae" ; Times: 2
+	Query: "Microryzomys minutus" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "genus:platanista" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 2
+	Query: "Akodon varius" ; Times: 2
+	Query: "Saguinus imperator" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 3
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "Pongo abelii" ; Times: 1
+	Query: "Reithrodontomys darienensis" ; Times: 1
+	Query: "Castor canadensis hastissue:1" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "tupaia tana" ; Times: 1
+	Query: "Syntheosciurus brochus" ; Times: 1
+	Query: "Leopardus pardalis 2014" ; Times: 4
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Myotis sodalis 2014" ; Times: 4
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "Dasyprocta azarae" ; Times: 2
+	Query: "Sciurus yucatanensis" ; Times: 1
+	Query: "Myotis septentrionalis 2016" ; Times: 4
+	Query: "Myotis septentrionalis 2014" ; Times: 4
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "Thomasomys paramorum" ; Times: 1
+	Query: "catalognumber:5832 institutioncode:ANSP" ; Times: 1
+	Query: "Ctenomys steinbachi" ; Times: 2
+	Query: "Leopardus pardalis 1984" ; Times: 4
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "Akodon albiventer" ; Times: 2
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "family:Elephantidae hastissue:1" ; Times: 2
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 2
+	Query: "19720" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 2
+	Query: "Auliscomys boliviensis" ; Times: 3
+	Query: "Petaurus australis" ; Times: 2
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 3
+	Query: "Neacomys pictus" ; Times: 1
+	Query: "19910 institutioncode:ANSP" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1367 download events in this period)
+Total number of records downloaded: 350
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 10
+	Country: Portugal ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Benin ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Rheomys" ; Times: 2
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "family:Elephantidae hastissue:1" ; Times: 3
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Cryptotis parva hastissue:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+
+
+End of report.
