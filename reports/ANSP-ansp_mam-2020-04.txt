@@ -1,0 +1,260 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 515
+Number of records retrieved in searches: 2882
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 38
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 440
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 13
+	Country: Argentina ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 11
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-07 ; Times: 148
+	Date: 2020-04-03 ; Times: 48
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 11
+	Date: 2020-04-30 ; Times: 12
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-21 ; Times: 235
+	Date: 2020-04-26 ; Times: 7
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 14
+	Date: 2020-04-08 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Cercopithecus cephus" ; Times: 4
+	Query: "Vulpes zerda" ; Times: 5
+	Query: "Cephalophus leucogaster" ; Times: 5
+	Query: "Cervus eldi" ; Times: 4
+	Query: "Callithrix penicillata" ; Times: 2
+	Query: "Blastocerus dichotomus" ; Times: 3
+	Query: "Cervus axis" ; Times: 3
+	Query: "Nandinia binotata" ; Times: 5
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Chlorocebus aethiops" ; Times: 4
+	Query: "Cercopithecus denti" ; Times: 4
+	Query: "Pudu mephistophiles" ; Times: 3
+	Query: "Vulpes corsac" ; Times: 5
+	Query: "Mandrillus sphinx" ; Times: 4
+	Query: "Sphaeronycteris toxophyllum" ; Times: 4
+	Query: "Tapirella bairdii" ; Times: 6
+	Query: "Elaphurus davidianus" ; Times: 3
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "Philantomba maxwellii" ; Times: 5
+	Query: "ANSP 8590" ; Times: 3
+	Query: "Leptailurus serval" ; Times: 4
+	Query: "Manis tricuspis" ; Times: 4
+	Query: "Mazama americana" ; Times: 3
+	Query: "Cephalophus dorsalis" ; Times: 4
+	Query: "Sphiggurus insidiosus" ; Times: 3
+	Query: "Cervus nippon" ; Times: 4
+	Query: "Otocyon megalotis" ; Times: 5
+	Query: "Cercopithecus erythrotis" ; Times: 4
+	Query: "Oecomys bicolor" ; Times: 6
+	Query: "Vulpes bengalensis" ; Times: 5
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "Cabassous" ; Times: 1
+	Query: "Axis porcinus" ; Times: 3
+	Query: "Genetta pardina" ; Times: 4
+	Query: "Cercocebus torquatus" ; Times: 4
+	Query: "moschus moschiferus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 6
+	Query: "22916" ; Times: 1
+	Query: "Babyrousa babyrussa" ; Times: 4
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "gazella subgutturosa" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 7
+	Query: "Mus pahari" ; Times: 6
+	Query: "Ourebia ourebi" ; Times: 4
+	Query: "Cercopithecus nictitans" ; Times: 4
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Chlorocebus tantalus" ; Times: 4
+	Query: "Cercopithecus diana" ; Times: 4
+	Query: "Madoqua kirkii" ; Times: 4
+	Query: "ANSP 11075" ; Times: 2
+	Query: "Rusa unicolor" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "Galagoides demidoff" ; Times: 5
+	Query: "Philantomba monticola" ; Times: 5
+	Query: "ANSP 6091" ; Times: 2
+	Query: "Cercopithecus ascanius" ; Times: 4
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "Cephalophus zebra" ; Times: 4
+	Query: "pentalagus furnessi" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Cercopithecus campbelli" ; Times: 9
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 4
+	Query: "Hypsignathus monstrosus" ; Times: 27
+	Query: "Lagothrix lagotricha" ; Times: 4
+	Query: "hylobates muelleri" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "Tragelaphus imberbis" ; Times: 4
+	Query: "Pan paniscus" ; Times: 8
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Brachyteles arachnoides" ; Times: 3
+	Query: "Vulpes ferrilata" ; Times: 5
+	Query: "Saguinus midas" ; Times: 2
+	Query: "Aotus trivirgatus" ; Times: 6
+	Query: "Lasiurus ega peru" ; Times: 1
+	Query: "Cercopithecus mona" ; Times: 4
+	Query: "Oryx dammah" ; Times: 5
+	Query: "Pygoderma bilabiatum" ; Times: 4
+	Query: "Cebuella pygmaea" ; Times: 2
+	Query: "Chlorocebus pygerythrus" ; Times: 4
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Taurotragus derbianus" ; Times: 4
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "Protoxerus stangeri" ; Times: 9
+	Query: "Syntheosciurus brochus" ; Times: 3
+	Query: "Cephalophus nigrifrons" ; Times: 4
+	Query: "Potamochoerus porcus" ; Times: 4
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Papio ursinus" ; Times: 4
+	Query: "vulpes bengalensis india" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Cephalophus maxwelli" ; Times: 5
+	Query: "Atherurus africanus" ; Times: 5
+	Query: "Apodemus latronum" ; Times: 4
+	Query: "Herpailurus yagouaroundi" ; Times: 13
+	Query: "Muntiacus vaginalis" ; Times: 3
+	Query: "Hyelaphus porcinus" ; Times: 3
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Cephalophus natalensis" ; Times: 4
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "ANSP 6242" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 13
+	Query: "Panthera Onca Skull" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Arctonyx collaris" ; Times: 7
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "ANSP-6784" ; Times: 1
+	Query: "Panthera tigris" ; Times: 6
+	Query: "Tapirus pinchaque" ; Times: 11
+	Query: "Felis chaus" ; Times: 4
+	Query: "Canis adustus" ; Times: 5
+	Query: "Phacochoerus africanus" ; Times: 4
+	Query: "ANSP 11834" ; Times: 2
+	Query: "Sphiggurus melanurus" ; Times: 3
+	Query: "Papio anubis" ; Times: 4
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Callithrix jacchus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1171 download events in this period)
+Total number of records downloaded: 1720
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 38
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 19
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 4
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 7
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-28 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "Tremarctos" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 1
+	Query: "gazella subgutturosa" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 12
+	Query: "Thomasomys" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Petaurista" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "vntype:specimen genus:Lagidium" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen genus:Paraxerus" ; Times: 1
+	Query: "vntype:specimen family:Thryonomyidae" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "vntype:specimen genus:Sciurotamias" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Petrodromus tetradactylus" ; Times: 1
+	Query: "aotus griseimembra" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "vntype:specimen genus:Heliosciurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Galagoides" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "vntype:specimen genus:Funisciurus" ; Times: 1
+
+
+End of report.
