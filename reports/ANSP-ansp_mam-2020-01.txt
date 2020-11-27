@@ -1,0 +1,159 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 929
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 35
+	Country: Portugal ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-17 ; Times: 7
+	Date: 2020-01-06 ; Times: 6
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-30 ; Times: 11
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 7
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-31 ; Times: 5
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eubalaena institutioncode:ANSP" ; Times: 2
+	Query: "ansp 19429" ; Times: 1
+	Query: "genus:priodontes" ; Times: 2
+	Query: "&#34;Chrysospalax trevelyani&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Glauconycteris variegata" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "13990" ; Times: 1
+	Query: "21953 ansp" ; Times: 1
+	Query: "castanea Carollia" ; Times: 1
+	Query: "Ctenodactylidae hastissue:1" ; Times: 2
+	Query: "dasypus novemcintus" ; Times: 2
+	Query: "ansp 20257" ; Times: 1
+	Query: "22953 ansp" ; Times: 1
+	Query: "Tenrecidae hastissue:1" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Mazama rufina" ; Times: 1
+	Query: "ansp 19713" ; Times: 1
+	Query: "Chrysochloridae hastissue:1" ; Times: 2
+	Query: "genus:Balaenoptera institutioncode:ANSP" ; Times: 5
+	Query: "22951 ansp" ; Times: 1
+	Query: "Macroscelididae hastissue:1" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 3
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "kerivoula cuprosa" ; Times: 1
+	Query: "ANSP 4877" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 8
+	Query: "&#34;Tapirus bairdii&#34;" ; Times: 1
+	Query: "mouhoti" ; Times: 1
+	Query: "kerodon rupestris" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1584 download events in this period)
+Total number of records downloaded: 777
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 48
+	Country: Latvia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-11 ; Times: 12
+	Date: 2020-01-12 ; Times: 13
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-31 ; Times: 9
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-30 ; Times: 8
+	Date: 2020-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 12
+	Query: "Dasyurus maculatus" ; Times: 2
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Tenrecidae hastissue:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "Castor fiber" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Dasyprocta aguti" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 1
+
+
+End of report.
