@@ -1,0 +1,215 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 1105
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 41
+	Country: Mexico ; Times: 103
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-18 ; Times: 73
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-19 ; Times: 15
+	Date: 2020-03-17 ; Times: 4
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 17
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 4
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 20
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-14 ; Times: 3
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Pteropus tonganus" ; Times: 1
+	Query: "moschiola" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:ANSP hastissue:1" ; Times: 4
+	Query: "Glauconycteris variegata" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Pteropus subniger" ; Times: 1
+	Query: "(10425) institutioncode:ANSP" ; Times: 2
+	Query: "Megaerops ecaudatus" ; Times: 2
+	Query: "Emballonura semicaudata" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "thomomys baileyi" ; Times: 7
+	Query: "Pteropus allenorum" ; Times: 1
+	Query: "Rhogeesa tumida" ; Times: 1
+	Query: "Scotoecus hirundo" ; Times: 1
+	Query: "Eonycteris major" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "Hypsugo macrotis" ; Times: 1
+	Query: "Nyctereutes" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "Eumops dabbenei" ; Times: 1
+	Query: "Tadarida plicatus" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 1
+	Query: "Daubentoniidae" ; Times: 1
+	Query: "Taphozous mauritianus" ; Times: 1
+	Query: "Hypsugo imbricatus" ; Times: 1
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "Thomomys baileyi" ; Times: 4
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Myotis exilis" ; Times: 2
+	Query: "family:viverridae hastissue:1" ; Times: 2
+	Query: "Myotis emarginatus" ; Times: 2
+	Query: "Pteropus lombocensis" ; Times: 1
+	Query: "rattus hoogerwerfi" ; Times: 2
+	Query: "ANSP 6902" ; Times: 3
+	Query: "Pteropus mariannus" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Diphylla centralis" ; Times: 1
+	Query: "Vespertilio discolor" ; Times: 1
+	Query: "Pipistrellus abramus" ; Times: 1
+	Query: "vntype:specimen family:Herpestidae hastissue:1" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Neoromicia capensis" ; Times: 2
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "&#34;Veracruz, Mirador&#34;" ; Times: 1
+	Query: "Epomophorus crypturus" ; Times: 1
+	Query: "Rhinolophus cornutus" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Tadarida braziliensis" ; Times: 1
+	Query: "Kerivoula picta" ; Times: 2
+	Query: "ANSP-7277" ; Times: 1
+	Query: "meminna" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "&#34;Thomomys baileyi&#34;" ; Times: 5
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Acerodon jubatus" ; Times: 1
+	Query: "Pteropus howensis" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "vntype:specimen institutioncode:ANSP hastissue:1" ; Times: 2
+	Query: "Rhinolophus mitratus" ; Times: 1
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "Cynopterus titthaecheilus" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Kerivoula cuprosa" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Pteropus rodricensis" ; Times: 1
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "Emballonura monticola" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 2
+	Query: "Megaderma lyra" ; Times: 2
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 4
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "sylvilagus gabbii" ; Times: 1
+	Query: "Hipposideros cyclops" ; Times: 1
+	Query: "(16664) institutioncode:ANSP" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Pteropus samoensis" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "Barbastella barbastellus" ; Times: 1
+	Query: "Sphaeronycteris toxophyllum" ; Times: 1
+	Query: "genus:Vampyrum hastissue:1" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "Mormoops blainvillii" ; Times: 2
+	Query: "Vespertilio murinus" ; Times: 2
+	Query: "Cheiromeles torquatus" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "Nycteris arge" ; Times: 2
+	Query: "Platyrrhinus vittatus" ; Times: 1
+	Query: "Notopteris macdonaldi" ; Times: 2
+	Query: "allouatta" ; Times: 1
+	Query: "Scotophilus temminckii" ; Times: 1
+	Query: "Mosia nigrescens" ; Times: 2
+	Query: "Promops centralis" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 853 download events in this period)
+Total number of records downloaded: 501
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "family:Rhinolophidae hastissue:1" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:ANSP hastissue:1" ; Times: 2
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "bradypus variegatus" ; Times: 3
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
