@@ -1,0 +1,144 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 12
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-22 ; Times: 4
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-18 ; Times: 10
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 14
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "ANSP-1494" ; Times: 1
+	Query: "ANSP-8536" ; Times: 1
+	Query: "Rheomys" ; Times: 1
+	Query: "ANSP-1493" ; Times: 1
+	Query: "ANSP 16091" ; Times: 1
+	Query: "ANSP 16083" ; Times: 1
+	Query: "catalognumber:5867 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP 16082" ; Times: 1
+	Query: "ANSP 15189" ; Times: 1
+	Query: "ANSP-3840" ; Times: 1
+	Query: "ANSP-2444" ; Times: 1
+	Query: "dicerorhinus sumatrensis" ; Times: 1
+	Query: "Heterocephalus glaber" ; Times: 1
+	Query: "5867 institutioncode:ANSP" ; Times: 1
+	Query: "ANSP-6055" ; Times: 1
+	Query: "ANSP-3457" ; Times: 3
+	Query: "ANSP-1516" ; Times: 2
+	Query: "ansp 19673" ; Times: 1
+	Query: "ANSP-4319" ; Times: 1
+	Query: "ansp 19671" ; Times: 1
+	Query: "ansp 19677" ; Times: 1
+	Query: "ansp 19676" ; Times: 1
+	Query: "ansp 19675" ; Times: 1
+	Query: "ansp 19674" ; Times: 1
+	Query: "genus:Ichthyomys" ; Times: 1
+	Query: "ansp 19679" ; Times: 1
+	Query: "ansp 19678" ; Times: 1
+	Query: "ANSP 16085" ; Times: 1
+	Query: "ANSP 16084" ; Times: 1
+	Query: "ANSP 16087" ; Times: 1
+	Query: "ANSP 16086" ; Times: 1
+	Query: "ansp 19672" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "vntype:specimen genus:Hyaena hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "catopuma" ; Times: 1
+	Query: "pentalagus furnessi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 596 download events in this period)
+Total number of records downloaded: 628
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Nepal ; Times: 1
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-04 ; Times: 6
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "Rheomys" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Arctonyx" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Sphaeronycteris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
