@@ -1,0 +1,178 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 916
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 25
+	Country: Austria ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 25
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-02 ; Times: 6
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-17 ; Times: 2
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Equus quagga sex:female" ; Times: 2
+	Query: "Ammospermophilus interpres Texas" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "panthera uncia" ; Times: 4
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "Onychomys torridus ramona" ; Times: 1
+	Query: "Cervus eldi" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "genus:Canis institutioncode:ANSP" ; Times: 5
+	Query: "scientificname:Tapirus pinchaque" ; Times: 1
+	Query: "Rupicapra rupicapra" ; Times: 1
+	Query: "Capra nubiana" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Rattus hoogerwerfi" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 2
+	Query: "Lasiurus Peru" ; Times: 2
+	Query: "scientificname:Saguinus oedipus" ; Times: 1
+	Query: "martes flavigula" ; Times: 2
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "catopuma" ; Times: 1
+	Query: "genus:ornithorhynchus preparations:skeleton" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "Pan paniscus" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Arctonyx collaris" ; Times: 1
+	Query: "Crateromys" ; Times: 1
+	Query: "peromycus" ; Times: 1
+	Query: "sciuris carolinensis" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Lagenorhynchus acutus" ; Times: 1
+	Query: "scientificname:Felis temmincki" ; Times: 1
+	Query: "genus:Lutreolina hastissue:1" ; Times: 2
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "scientificname:Macropus rufogriseus" ; Times: 1
+	Query: "scientificname:Funisciurus isabella" ; Times: 3
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "phataginus tricuspis" ; Times: 1
+	Query: "Pseudois nayaur" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "ANSP 18209" ; Times: 1
+	Query: "Puma concolor AND montana" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "scientificname:Nyctereutes procyonoides" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 2
+	Query: "scientificname:Felis pardalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1521 download events in this period)
+Total number of records downloaded: 2736
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 8
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 9
+	Date: 2020-10-14 ; Times: 16
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "citellus beecheyi" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Onychomys torridus ramona" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 2
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "family:elephantidae" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+	Query: "Lasiurus Peru" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "martes flavigula" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "Molossus Peru" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "ateles chamek" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+
+
+End of report.
