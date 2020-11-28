@@ -1,0 +1,176 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 314
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 66
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 15
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 4
+	Date: 2020-09-13 ; Times: 6
+	Date: 2020-09-29 ; Times: 17
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 14
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-02 ; Times: 5
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "ANSP 10550" ; Times: 1
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "scientificname:Pongo abelii" ; Times: 13
+	Query: "genus:Ommatophoca hastissue:1" ; Times: 1
+	Query: "genus:Monachus hastissue:1" ; Times: 1
+	Query: "catalognumber:6386 institutioncode:ANSP" ; Times: 1
+	Query: "genus:Nyctereutes hastissue:1" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 1
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "Panthera onca México" ; Times: 1
+	Query: "genus:Prionailurus hastissue:1" ; Times: 1
+	Query: "ANSP 11614" ; Times: 1
+	Query: "scientificname:Liomys texensis" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 3
+	Query: "genus:Crocuta hastissue:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys mexicanus" ; Times: 1
+	Query: "genus:Herpestes hastissue:1" ; Times: 1
+	Query: "ANSP 10604" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "genus:Paradoxurus hastissue:1" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "genus:Herpailurus hastissue:1" ; Times: 1
+	Query: "ANSP-18320" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "eutamias merriami" ; Times: 1
+	Query: "Sylvilagus palustris paludicola" ; Times: 1
+	Query: "ANSP-18327" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "scientificname:Pan Paniscus" ; Times: 1
+	Query: "pectinator" ; Times: 1
+	Query: "scientificname:Pan paniscus" ; Times: 14
+	Query: "genus:Leopardus hastissue:1" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "ANSP 10815" ; Times: 1
+	Query: "genus:Mirounga hastissue:1" ; Times: 1
+	Query: "Neotoma magister hastissue:1" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:ANSP" ; Times: 2
+	Query: "genus:Galictis hastissue:1" ; Times: 1
+	Query: "genus:Hyaena hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "genus:Viverra hastissue:1" ; Times: 1
+	Query: "genus:Nasua hastissue:1" ; Times: 1
+	Query: "kerodon rupestris" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen hastissue:1" ; Times: 1
+	Query: "scientificname:Pongo Abelii" ; Times: 2
+	Query: "scientificname:Tremarctos ornatus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 976 download events in this period)
+Total number of records downloaded: 1372
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 28
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 6
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-09 ; Times: 11
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "Gazella subgutturosa" ; Times: 6
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Panthera onca México" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Ourebia ourebi" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Tabasco" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "Leopardus pardalis México" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+
+
+End of report.
