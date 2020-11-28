@@ -1,0 +1,114 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 457
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 2
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 8
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-07 ; Times: 8
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-13 ; Times: 1
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-10 ; Times: 16
+	Date: 2020-06-12 ; Times: 6
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "mustela asia" ; Times: 1
+	Query: "Muntiacus vaginalis" ; Times: 6
+	Query: "Reithrodontomys tenuirostris" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "&#34;peromyscus gambelii&#34;" ; Times: 1
+	Query: "saimiri cochabamba" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 6
+	Query: "mustela sumatra" ; Times: 2
+	Query: "ANSP 22564" ; Times: 1
+	Query: "ANSP 11358" ; Times: 2
+	Query: "arctonyx" ; Times: 2
+	Query: "bos gaurus" ; Times: 2
+	Query: "ANSP 11355" ; Times: 2
+	Query: "ANSP 11356" ; Times: 2
+	Query: "ANSP 11357" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "Otocolobus manul" ; Times: 1
+	Query: "arctonyx sumatra" ; Times: 2
+	Query: "Paraechinus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Paraechinus micropus" ; Times: 1
+	Query: "ANSP 11353" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "genus:paguma" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "Neotamias cinereicollis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 474 download events in this period)
+Total number of records downloaded: 469
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Dactylomys" ; Times: 2
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
