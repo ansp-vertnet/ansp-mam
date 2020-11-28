@@ -1,0 +1,189 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 473
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 53
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 51
+	Country: Germany ; Times: 30
+	Country: Ireland ; Times: 3
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 11
+	Date: 2020-08-19 ; Times: 10
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-13 ; Times: 5
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-20 ; Times: 41
+	Date: 2020-08-21 ; Times: 60
+
+List of queries that retrieved data from the resource: 
+	Query: "Cercopithecus cephus" ; Times: 1
+	Query: "Miopithecus talapoin" ; Times: 1
+	Query: "Symphalangus syndactylus" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Macaca ochreata" ; Times: 1
+	Query: "ANSP-14474" ; Times: 1
+	Query: "Cercopithecus denti" ; Times: 1
+	Query: "ANSP-14476" ; Times: 2
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "Cercopithecus erythrotis" ; Times: 1
+	Query: "genus:Pongo hastissue:1" ; Times: 4
+	Query: "Macaca maura" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "ANSP-15535" ; Times: 2
+	Query: "ANSP-15534" ; Times: 2
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "Malacomys edwardsi" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 1
+	Query: "Mus pahari" ; Times: 1
+	Query: "Piliocolobus badius" ; Times: 1
+	Query: "ANSP 12348" ; Times: 2
+	Query: "Cercopithecus nictitans" ; Times: 1
+	Query: "Chlorocebus tantalus" ; Times: 1
+	Query: "scientificname:Blastocerus dichotomus" ; Times: 1
+	Query: "Hylobates pileatus" ; Times: 1
+	Query: "ANSP-14473" ; Times: 1
+	Query: "ANSP 10764" ; Times: 1
+	Query: "Canis niger" ; Times: 1
+	Query: "Macaca sinica" ; Times: 1
+	Query: "Cercopithecus neglectus" ; Times: 1
+	Query: "ANSP-14621" ; Times: 1
+	Query: "ANSP-14622" ; Times: 1
+	Query: "ANSP-661" ; Times: 1
+	Query: "ANSP-21752" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 2
+	Query: "Felis chaus" ; Times: 1
+	Query: "Cercopithecus campbelli" ; Times: 1
+	Query: "Nyctinomus macrotis" ; Times: 3
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "Hylobates agilis" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Vulpes ferrilata" ; Times: 1
+	Query: "Cercopithecus mona" ; Times: 1
+	Query: "Chlorocebus pygerythrus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "ANSP-17196" ; Times: 1
+	Query: "Syntheosciurus brochus" ; Times: 1
+	Query: "Papio ursinus" ; Times: 1
+	Query: "Cercopithecus ascanius" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "Profelis aurata" ; Times: 1
+	Query: "Hylobates muelleri" ; Times: 1
+	Query: "Felis manul" ; Times: 28
+	Query: "ANSP 22051" ; Times: 1
+	Query: "ANSP 22050" ; Times: 1
+	Query: "ANSP 22052" ; Times: 1
+	Query: "genus:Erythrocebus" ; Times: 1
+	Query: "ANSP-21689" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 3
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Canis gregoryi" ; Times: 1
+	Query: "Chlorocebus sabaeus" ; Times: 1
+	Query: "ANSP-15266" ; Times: 2
+	Query: "Canis adustus" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "genus:Tonatia hastissue:1" ; Times: 2
+	Query: "ANSP-18428" ; Times: 2
+	Query: "ANSP-18424" ; Times: 2
+	Query: "Otocolobus manul" ; Times: 13
+	Query: "Erythrocebus" ; Times: 1
+	Query: "ANSP-18427" ; Times: 2
+	Query: "ANSP-395" ; Times: 1
+	Query: "ANSP-18425" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 756 download events in this period)
+Total number of records downloaded: 709
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Burkina Faso ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 5
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "pontoporia blainvillei" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+
+
+End of report.
