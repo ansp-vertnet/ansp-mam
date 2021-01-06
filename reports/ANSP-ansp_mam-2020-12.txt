@@ -1,0 +1,160 @@
+Report for Institution Code ANSP, Resource ansp_mam
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 3162
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United Kingdom ; Times: 114
+	Country: Italy ; Times: 17
+	Country: France ; Times: 2
+	Country: United States ; Times: 14
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 12
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 8
+	Date: 2020-12-24 ; Times: 18
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-20 ; Times: 83
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-31 ; Times: 8
+	Date: 2020-12-28 ; Times: 5
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-11 ; Times: 13
+	Date: 2020-12-04 ; Times: 17
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "trichechus inunguis" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid soemmerringi" ; Times: 4
+	Query: "Muntiacus vaginalis" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "Muntiacus muntjac" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "family:elephantidae institutioncode:ANSP" ; Times: 74
+	Query: "ansp 21754" ; Times: 1
+	Query: "ANSP 21744" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 4
+	Query: "ansp 21775" ; Times: 1
+	Query: "Microtus savii" ; Times: 1
+	Query: "ANSP-17222" ; Times: 1
+	Query: "ANSP-17225" ; Times: 2
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "Neoromicia somalicus" ; Times: 1
+	Query: "17310 bos" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid soemmerringii" ; Times: 2
+	Query: "rheomys" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 2
+	Query: "Dryomys nitedula" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "(nanger gazella soemmerringii)" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 2
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "ANSP-915" ; Times: 1
+	Query: "gazella soemmerringii" ; Times: 1
+	Query: "pseudois" ; Times: 1
+	Query: "Bison bonasus" ; Times: 2
+	Query: "ANSP-17221" ; Times: 3
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid nanger soemmerringii" ; Times: 2
+	Query: "Vulpes ferrilata" ; Times: 1
+	Query: "nanger soemmerringii" ; Times: 3
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "ANSP-14547" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "Pipistrellus abramus" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid nanger" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "institutioncode:ansp 22632" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "ansp 21788" ; Times: 1
+	Query: "ansp 14190" ; Times: 1
+	Query: "Phacochoerus" ; Times: 1
+	Query: "ansp 16273" ; Times: 2
+	Query: "catalognumber:13010 institutioncode:ANSP" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "ansp 21761" ; Times: 1
+	Query: "Syntheosciurus brochus" ; Times: 1
+	Query: "ANSP-2559" ; Times: 1
+	Query: "ANSP-14546" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "gbifdatasetid:temp-ansp-mam-datasetid" ; Times: 4
+	Query: "Myotis daubentonii" ; Times: 1
+	Query: "genus:Galago hastissue:1" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "Felis chaus" ; Times: 3
+	Query: "Vulpes bengalensis" ; Times: 1
+	Query: "Pan paniscus" ; Times: 5
+	Query: "11296" ; Times: 1
+	Query: "ANSP 10059" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 705 download events in this period)
+Total number of records downloaded: 2755
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "myoictis" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 1
+
+
+End of report.
